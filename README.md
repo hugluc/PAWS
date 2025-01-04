@@ -12,7 +12,7 @@ This script automatically connects SOLANA and TON wallets using private keys.
 
 ## Contact
 For any inquiries, please contact me:
-Telegram: t.me/easycuanairdrop
+- Telegram: [@easycuanairdrop](https://t.me/easycuanairdrop)
 
 ## Disclaimer
 
